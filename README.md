@@ -1,6 +1,5 @@
 # Movie-TvSeries-Search
 
-● Clone the Repository to use all the Features of Movie-TvSeries-Search.
 
 ● Javascript web application for searching movies using the omdb api.
 
