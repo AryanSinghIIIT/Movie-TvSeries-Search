@@ -16,17 +16,17 @@ in their title.
 On the clicking the result the user should be shown a details about the Movie/TvSeries.
 The details
 
-should include at least the following about the movie
+should include at least the following about the movie: 
 
-The title
-The poster
-The year of release
-Rating
-Genre
-Writer
-The cast
-The plot
-Language
+The title,
+The poster,
+The year of release,
+Rating,
+Genre,
+Writer,
+The cast,
+The plot,
+Language,
 Awards and Awards-nominations (if any)
 
 
