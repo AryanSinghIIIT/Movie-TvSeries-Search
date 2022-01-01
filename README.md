@@ -20,4 +20,4 @@ The title, The poster, The year of release, Rating, Genre, Writer, The cast, The
 
 ![AryanSingh1](https://user-images.githubusercontent.com/96579866/147846961-b8b80f13-07fd-4903-a1ec-968af9876c88.png)
 ![AryanSingh2](https://user-images.githubusercontent.com/96579866/147846962-6834b483-eddc-4238-b6e2-96e6382dd912.png)
-![AryanSingh3](https://user-images.githubusercontent.com/96579866/147846963-ec942244-45e5-4b6e-9f37-9f7e1123f740.png)
+![AryanSingh3](https://user-images.githubusercontent.com/96579866/147847000-930c279c-5e8c-45ee-b649-ee388c7a725b.png)
